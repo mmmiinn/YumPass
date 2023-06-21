@@ -50,10 +50,6 @@ client
 │    │   ├── api
 │    │   └── response
 │    └── pages
-│       ├── CarListPage
-│       ├── CenterPage
-│       ├── ReviewListPage
-│       └── stories
 server
     └── Router
 
